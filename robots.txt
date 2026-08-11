@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-iqet4r.mypensionxper.com/sitemap.xml
